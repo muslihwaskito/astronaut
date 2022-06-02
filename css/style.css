@@ -1224,7 +1224,7 @@ select:focus {
 /* Hero Area Start */
 .hero-area {
   position: absolute;
-  padding: 250px 0px 150px;
+  padding: 250px 0px 20px;
   position: relative;
   background: #070b28;
   overflow: hidden;
